@@ -1,0 +1,46 @@
+.navbar-brand
+{
+ 
+    color: green;
+    font-weight: bold;
+   
+}
+
+#brand-title
+{
+    font-size: 5rem;
+    /* font-family: ; */
+}
+#barnd-desc
+{
+    font-size: 2rem;
+}
+.card-footer > a{
+    color: #de042e;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+}
+
+#downloads
+{
+    background-color: #f2f5fc;
+}
+#offer-title
+{
+  font-size: 2.5rem;
+  letter-spacing: 0.15;
+  color: #59688c;
+  text-transform: none;
+  font-weight: bold;
+}
+#offer-desc{
+  font-size: 27px;
+  line-height: 43px;
+  letter-spacing: 0.24px;
+  color: #8899c0;
+  max-width: 80%;
+}
+.pt-3{
+  cursor: pointer;
+}
